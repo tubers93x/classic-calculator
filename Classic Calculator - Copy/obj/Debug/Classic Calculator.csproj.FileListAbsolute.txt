@@ -1,0 +1,13 @@
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\bin\Debug\Classic Calculator.exe.config
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\bin\Debug\Classic Calculator.exe
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\bin\Debug\Classic Calculator.pdb
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.csproj.AssemblyReference.cache
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic_Calculator.Form1.resources
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic_Calculator.Properties.Resources.resources
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.csproj.GenerateResource.cache
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.exe
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.pdb
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\bin\Debug\Siticone.UI.dll
+C:\Users\jepit\source\repos\Classic Calculator\Classic Calculator\obj\Debug\Classic Calculator.csproj.CopyComplete
